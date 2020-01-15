@@ -1,0 +1,8 @@
+{
+  "epochs": 3,
+  "batch_size": 64,
+  "enc_num_layers": 3,
+  "hidden_size": [192, 48, 24],
+  "max_len": 32,
+  "summary_step": 400
+}
