@@ -1,0 +1,6 @@
+{
+  "tr_path": "./data/QQP/train_small.tsv",
+  "dev_path": "./data/QQP/dev_small.tsv",
+  "tst_path": "./data/QQP/test.tsv",
+  "seperator": "/t"
+}
